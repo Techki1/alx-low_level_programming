@@ -1,14 +1,16 @@
 #include "main.h"
 
 /**
- * main - program that prints Holberton.
+ *
+ * main - program that prints main.
+ *
  * Return: int
  */
 
 int main(void)
 {
 	int n = 0;
-	char str_hbt[9] = "Holberton";
+	char str_hbt[9] = "main";
 
 	while (n < 9)
 	{
